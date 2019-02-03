@@ -6,7 +6,7 @@ It shows the devices used by your computer. It is similar to the 'lspci' command
 
 ## The output
 
-It outputs various details about your components which could be used for troubleshooting.Just search your vendor_id - device_id 
+It outputs various details about your components which could be used for troubleshooting. Just search your vendor_id - device_id 
 on a devices database like https://devicehunt.com/.
 
 ## Example
