@@ -2,7 +2,7 @@
 
 ## About
 
-It shows the devices used by your computer. It is similar to the 'lspci' command in Unix-like operating systems, but a lot simplier.
+It shows the devices used by your computer. It is similar to the 'lspci' command in Unix-like operating systems, but a lot simpler.
 
 ## The output
 
